@@ -1,2 +1,2 @@
-# cshell
-Custom shell in C
+# cwushell
+custom shell created in C for lab.
